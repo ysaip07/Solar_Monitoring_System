@@ -21,3 +21,6 @@ Microcontroller Programming: The microcontroller is programmed using Arduino IDE
 Display Interface: An LCD or LED display is connected to the microcontroller to show real-time data. A graphical display can be used to present parameters like power output in bar charts.
 
 Communication Setup: The ESP8266 Wi-Fi module is integrated to transmit the data to the cloud for real-time monitoring. 
+
+
+NOTE:TOOK REFERENCE FROM YOUTUBE.
