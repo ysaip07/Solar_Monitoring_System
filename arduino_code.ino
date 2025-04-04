@@ -23,7 +23,7 @@ float smoothedCurrent = 0;
 void setup() {
   lcd.init();
   lcd.backlight();
-  scrollMessages("Solar Power Monitoring System", "Presented By 23955A0421 & 22951A04J1");
+  scrollMessages("Solar Power Monitoring System", "Presented By 23955A0421");
   lcd.clear();
 
   Serial.begin(9600);
